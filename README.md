@@ -14,4 +14,5 @@ This text is **bold**.
 ![Descripción de la imagen](https://picsum.photos/800/600)
 
 ![Descripción de la imagen](/images/imagen.jpg)
-![Descripción de la imagen](/images/picture.jpg "Leyenda de la imagen")
+![Descripción de la imagen](https://github.com/runtimevic/DemoDocumentacionTest/blob/master/images/imagen.jpg "Leyenda de la imagen")
+
