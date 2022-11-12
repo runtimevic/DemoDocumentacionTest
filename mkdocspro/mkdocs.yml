@@ -1,1 +1,6 @@
 site_name: My Documentacion
+theme: 
+
+nav:
+    - Principal: index.md
+    - Acerca de: about.md
